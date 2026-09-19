@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Remix Remix Parul University Events",
+  "description": "Official Parul University student event notification and management app featuring campus highlights, event schedules, categories, alerts, digital passes, and student profiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
